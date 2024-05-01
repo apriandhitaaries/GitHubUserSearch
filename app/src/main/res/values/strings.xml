@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GitHub User Search</string>
+    <string name="searchbar_hint">Search Username</string>
+    <string name="username">Username</string>
+    <string name="bio_profile">Bio Profile</string>
+    <string name="location">Location</string>
+    <string name="following">Following</string>
+    <string name="name">Nama</string>
+    <string name="followers">Followers</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
